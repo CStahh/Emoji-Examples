@@ -1,0 +1,26 @@
+
+
+Location of images: https://gateway.pinata.cloud/ipfs/QmQyPmkSuZUi1pU82pkj86vGzBeWeqnexvkeC61ofYFhux
+
+Location of metadata https://gateway.pinata.cloud/ipfs/INSERT
+
+TEST Website url: 
+surge username: chris.schwint@gmail.com
+surge pw:
+
+Contract address:0x4091D1157a7cABEC537869Cfe6Ebe23f9C1aA90C
+Contract scan url: https://mumbai.polygonscan.com/address/0x4091d1157a7cabec537869cfe6ebe23f9c1aa90c
+
+CROSSMINT INFO
+collectionTitle=""
+collectionDescription=""
+collectionPhoto="https:""
+environment="staging"
+clientId=""
+className='my-custom-crossmint-button'
+mintConfig={{
+price: "$$",
+//onClick={mintNFTHandler}
+_mintAmount: "$$"
+
+NOTES:
